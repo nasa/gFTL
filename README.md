@@ -19,7 +19,7 @@ retrieval of an object by providing it's key.
 
 # The solution
 
-This package, gFTL, provides a mechanism to easily create robust
+This package, gFTL, provides  a mechanism to easily create robust
 containers and associated iterators which can be used within Fortran
 applications.  The primary methods are intended to be as close to
 their C++ STL analogs as possible.  We have found that these
