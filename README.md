@@ -29,7 +29,7 @@ software development, and hope that others find them to be just as useful.
 Currently, the following three types of containers are provided.
 * Vector (list)
 * Set
-* Map  (associated array)
+* Map (associated array)
 
 Contributions of additional containers are very much welcomed.
 
